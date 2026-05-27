@@ -1,27 +1,15 @@
-# 👋 Hi there, I'm Abdul Gani! 🚀
+# 💫 About Me:
+🧠 AI & LLM Integration: Building intelligent web applications that connect seamless front-end interfaces to Large Language Models (LLMs) via secure APIs.<br><br>⚙️ Workflow Automation: Writing advanced Python scripts and automated web scrapers to fetch, process, and clean large datasets, eliminating hours of manual effort.<br><br>🌐 Full-Stack Systems: Designing relational database structures (DBMS) and building robust backend APIs to power responsive, modern user interfaces.<br><br>📊 GitHub Stats & Technologies<br>📩 Connect With Me<br>LinkedIn: linkedin.com/in/abdul-gani-080392325<br><br>Email: abdulgani231sz@gmail.com
 
-### AI & Web Engineer | Full-Stack Developer | Automation Specialist
 
-I am a Computer Applications student at Davangere University (2024-2027). I specialize in bridging the gap between advanced Full-Stack Web Development, Generative AI integration, and powerful Workflow Automation. I build systems that process data smartly and eliminate manual workflows.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scroxxz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul Gani ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulgani231sz@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abdulgani231sz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abdulgani231sz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulgani231sz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdulgani231sz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## Tech Stack & High-Level Skills
-
-```focused-tech
-├──  AI & GENERATIVE AI       :: Generative AI (GenAI), LLM APIs (OpenAI, Gemini), LangChain
-├──  WEB ENGINEERING          :: Python, JavaScript (ES6+), React.js, Node.js, Express, Tailwind CSS
-├──  DATABASES                :: DBMS, SQL, NoSQL (MongoDB)
-└──  AUTOMATION & TOOLS       :: Web Scraping (Selenium, Puppeteer), Python Scripting, Git, GitHub
-
-🧠 AI & LLM Integration: Building intelligent web applications that connect seamless front-end interfaces to Large Language Models (LLMs) via secure APIs.
-
-⚙️ Workflow Automation: Writing advanced Python scripts and automated web scrapers to fetch, process, and clean large datasets, eliminating hours of manual effort.
-
-🌐 Full-Stack Systems: Designing relational database structures (DBMS) and building robust backend APIs to power responsive, modern user interfaces.
-
-📊 GitHub Stats & Technologies
-📩 Connect With Me
-LinkedIn: linkedin.com/in/abdul-gani-080392325
-
-Email: abdulgani231sz@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
